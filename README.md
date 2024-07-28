@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shaini Tharushika
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning React,Springboot,PHP,Python &etc...
-- 💞️ I’m looking to collaborate on myself.
 - 📫 How to reach me shininitharushika2020@gmail.com
 - ⚡ Fun fact: I think I am Funny.
 
