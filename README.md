@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaini Tharushika</h1>
-<h3 align="center">A Passionate frontend developer | Software Engineering Undergraduate| Exploring the Boundless World of Technology</h3>
+<h3 align="center">A Passionate frontend developer | Software Engineering Undergraduate | Exploring the Boundless World of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaini2003&label=Profile%20views&color=0e75b6&style=flat" alt="shaini2003" /> </p>
 
